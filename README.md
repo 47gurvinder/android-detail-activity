@@ -1,7 +1,7 @@
 android-master-detail-demo
 ==========================
 
-Android Demo for the Master-Detail Pattern for Phones and Tablets. Check out the [Flexible User Interface](https://github.com/thecodepath/android_guides/wiki/Flexible-User-Interfaces) guide for more details about building this app.
+Android Demo for the Master-Detail Pattern for Phones and Tablets.
 
 ![Master Detail Pattern](http://developer.android.com/images/training/basics/fragments-screen-mock.png)
 
